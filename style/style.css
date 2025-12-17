@@ -3,6 +3,9 @@
     border-radius: 25px;
     margin-top: 150px;
 }
+.accendi-button.active{
+    display: none;
+}
 .white.active {
     display: none;
 }
@@ -14,6 +17,10 @@
 }
 .spegni-button{
     display: none;
+    
+}
+.spegni-button.active{
+    display: block;
     height: 2rem;
     border-radius: 25px;
     margin-top: 150px;
