@@ -3,9 +3,18 @@
     border-radius: 25px;
     margin-top: 150px;
 }
-.white.active{
+.white.active {
+    display: none;
+}
+.yellow {
     display: none;
 }
 .yellow.active{
+    display: block;
+}
+.spegni-button{
     display: none;
+    height: 2rem;
+    border-radius: 25px;
+    margin-top: 150px;
 }
