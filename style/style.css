@@ -1,0 +1,11 @@
+.accendi-button{
+    height: 2rem;
+    border-radius: 25px;
+    margin-top: 150px;
+}
+.white.active{
+    display: none;
+}
+.yellow.active{
+    display: none;
+}
